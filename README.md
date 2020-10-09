@@ -11,3 +11,6 @@ SmartRefreshLayout 下拉刷新框架https://github.com/scwang90/SmartRefreshLay
 <p align="left">
 神奇宝贝 (PokemonGo) 基于 Jetpack + MVVM + Repository + Paging3 + Kotlin Flow 的实战项目,这是一个小型的 App 项目，涉及到技术：Paging3（network + db），Dagger-Hilt，App Startup，DataBinding，Room，Motionlayout，Kotlin Flow，Coil，JProgressView 等等。 https://github.com/hi-dhl/PokemonGo
 </p>
+<p align="left">
+A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）https://github.com/JavaNoober/BackgroundLibrary
+ </p>
