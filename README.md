@@ -14,3 +14,6 @@ SmartRefreshLayout 下拉刷新框架https://github.com/scwang90/SmartRefreshLay
 <p align="left">
 A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）https://github.com/JavaNoober/BackgroundLibrary
  </p>
+ <p align="left">
+https://github.com/hackware1993/MagicIndicator
+  </p>
