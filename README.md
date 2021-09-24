@@ -20,6 +20,10 @@ Android工具类框架 https://github.com/Blankj/AndroidUtilCode
   <p align="left">
 Android mqtt WebSocket框架 https://github.com/LZ9/Hermes
  </p>
+   <p align="left">
+Android aop框架 https://github.com/xuexiangjys/XAOP
+ </p>
  <p align="left">
 https://github.com/hackware1993/MagicIndicator
   </p>
+  
